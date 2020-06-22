@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'directives';
+
+  arr34=[1,1,1,1]
+
+
+  colorParam1 = 'violet'
+
+  logArr = []
+
 }
