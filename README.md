@@ -6,7 +6,7 @@
 
 repo: `https://github.com/bresleveloper/avra7-directives/`
 
-(link to GHP)[https://github.com/bresleveloper/avra7-directives/index.html]
+(link to GHP)[https://bresleveloper.github.io/avra7-directives/]
 
 # details
 
@@ -28,4 +28,4 @@ directive `showcase`
 # HW
 1. simple highlight directive
 2. showcase directive
-3. think and make something new and cool 
+3. think and make something new and coolgit remote add origin https://github.com/bresleveloper/avra7-directives.git 
